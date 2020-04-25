@@ -22,3 +22,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+git的日常三部曲
+git add .
+git commit -m "asdasd"
+git push
